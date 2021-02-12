@@ -8,6 +8,7 @@ Motif_mark.py is called from the command line, in bash. Before this is done, a s
 to be completed. This is done by creating an environment.
 
 #######################################
+
 Creating Environment:
 
 In order to properly run the script, pycairo is needed. To install and use the 
@@ -30,6 +31,7 @@ It is best practice to activate the environment in the same directory that motif
 is being run from.
 
 #######################################
+
 Running motif_mark.py:
 
 Motif_mark.py is run from the command line:
@@ -60,6 +62,7 @@ The --help argument is optional, and will display the following message:
 
 
 #######################################
+
 Output: 
 
 The output of the file will be all the genes outputs from the FASTA file as one combined 
